@@ -1,0 +1,12 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï¾ú´ıÿÿÿÿ8¼ÁÛñ/
+R
+java:S1854"5Remove this useless assignment to local variable "a".(´£Åı8À¥õñ/
+C
+java:S1481"&Remove this unused "a" local variable.(´£Åı8À¥õñ/
+W
+java:S1854"5Remove this useless assignment to local variable "b".(Œ’¾²ûÿÿÿÿ8°ùñ/
+H
+java:S1481"&Remove this unused "b" local variable.(Œ’¾²ûÿÿÿÿ8°ùñ/

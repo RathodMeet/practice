@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òşÚúøÿÿÿÿ8§ãû²è/
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(¥Ãâ8Êê¨è/
+t	java:S1354"YReduce the total number of break and continue statements in this loop to use at most one.(‚Å”I8á²ç²è/

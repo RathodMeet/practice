@@ -1,0 +1,14 @@
+
+L
+java:S3740*"/Provide the parametrized type for this generic.(øÛå‘8š«å¨ê/
+Q
+java:S1144 "4Remove this unused private "reverseLinkList" method.(Áãªš8õúï‰ê/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ùÚ§¸8ğñè‰ê/
+H
+java:S1481,"&Remove this unused "s" local variable.(÷²Ú´ÿÿÿÿÿ8¼ßç¨ê/
+W
+java:S1854,"5Remove this useless assignment to local variable "s".(÷²Ú´ÿÿÿÿÿ8¼ßç¨ê/
+
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Áãªš8õúï‰ê/
+L
+java:S1172 "/Remove this unused method parameter "listNode".(Áãªš8õúï‰ê/

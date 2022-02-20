@@ -1,0 +1,7 @@
+
+[
+java:S3516"9Refactor this method to not always return the same value.(Ï„Ïšşÿÿÿÿ8¬İÄ€ê/
+O
+java:S1481"2Remove this unused "haystackChars" local variable.(ºëÀ8Ô‚½€ê/
+^
+java:S1854"ARemove this useless assignment to local variable "haystackChars".(ºëÀ8Ô‚½€ê/
